@@ -1,10 +1,10 @@
-# Binance-Futures-Trading-Bot [![Tweet](https://img.shields.io/twitter/url/http/shields.io.svg?style=social)](https://twitter.com/intent/tweet?text=Check%20out%20this%20free%20Binance%20Trading%20Bot%20I%20found%20on%20Github%20&url=https://github.com/conor19w/Binance-Futures-Trading-Bot&hashtags=Trading,Bot,Trading_Bot,Cryptocurrency_Trading_Bot,Crypto,Bitcoin,Ethereum,Cryptocurrency,Binance,DOGE,dogecoin) #
-## Technical Analysis driven Crypto Trading bot on Binance Futures 📈 ₿ 🚀 [![Tweet](https://img.shields.io/twitter/url/http/shields.io.svg?style=social)](https://twitter.com/intent/tweet?text=Check%20out%20this%20free%20Binance%20Trading%20Bot%20I%20found%20on%20Github%20&url=https://github.com/conor19w/Binance-Futures-Trading-Bot&hashtags=Trading,Bot,Trading_Bot,Cryptocurrency_Trading_Bot,Crypto,Bitcoin,Ethereum,Cryptocurrency,Binance,DOGE,dogecoin) ##
-[__Join My public Discord Server__](https://discord.gg/jBu6thyP66) __&__ [__Follow The Twitter__](https://twitter.com/futures_bot)
-* Comes with 12 pre-built strategies found in [TradingStrats.py](https://github.com/conor19w/Binance-Futures-Trading-Bot/blob/main/TradingStrats.py)
+# Binance-Futures-Trading-Bot 
+## Technical Analysis driven Crypto Trading bot on Binance Futures 📈 ₿ 🚀 
+[__Follow The Twitter__] https://twitter.com/awoyemivictora
+* Comes with 12 pre-built strategies found in [TradingStrats.py]
 * See Documentation below to implement your TA strategies.
 * If you enjoy the repo please share it around to friends & tweet about it using the tweet button above 😃   
-or [Buy me a Coffee](https://www.buymeacoffee.com/conor19w)
+or [Buy me a Coffee](https://www.buymeacoffee.com/awoyemivictor)
 * Works best with Python 3.8.10 on Linux.
 * On Windows you may run into issues, using the docker file / reducing the number of coins you are trading might help
 * Utilizes [python-Binance](https://python-binance.readthedocs.io/en/latest/) Client to execute orders and pull data from Binance
@@ -18,7 +18,7 @@ __Strategies are implemented in Bot_Class as functions in Make_decision()__
 [Create Custom Strategies & TP/SL functions Manual](files/Custom_Strategies.pdf) (This needs updating, but I will have a new PDF out soon)
 ---
 ## Binance Setup ##
-* Create a [Binance Account](https://accounts.binance.com/en/register?ref=BKR8BMMP) (This link uses my referral which gives you 5% kickback on trades & would be greatly appreciated)
+* Create a [Binance Account](https://www.binance.com/en-NG/activity/referral-entry/CPA?fromActivityPage=true&ref=CPA_00WKJ91T2X) (This link uses my referral which gives you 100 USDT Trading Fee Credit and me also.)
 * __Enable Two-factor Authentication in the security section to keep your crypto safe.__
 * Create a new API key under the API Management section.
 *  [✓] Read Info [✓] Enable Trading [✓] Enable Futures [X] Enable Withdrawals
@@ -67,19 +67,5 @@ python3 app.py
 
 ![](files/Live_Trading.PNG)
 
----
-### YouTube Channels with Strategy Ideas: ###
-[__Silicon Trader__](https://www.youtube.com/channel/UCVRGsC6JVsB8F6HE_xjLyJg) | [__Trade Pro__](https://www.youtube.com/channel/UCrXjzUN6EtlyhaaAerbPfkQ) | [__Strategy Testing__](https://www.youtube.com/c/TradingStrategyTesting) | [__Trading Journal__](https://www.youtube.com/c/TradingJournal1) |  [__The Moving Average__](https://www.youtube.com/channel/UCYFQzaZyTUzY-Tiytyv3HhA)  
 
----
-## TO-DO List: ##
-[Trello Board](https://trello.com/invite/b/iagTNiv0/80cc1828bdac439ed813cc54c9698c06/github-bot)
-
----
-# Contact me [![Tweet](https://img.shields.io/twitter/url/http/shields.io.svg?style=social)](https://twitter.com/intent/tweet?text=Check%20out%20this%20free%20Binance%20Trading%20Bot%20I%20found%20on%20Github%20&url=https://github.com/conor19w/Binance-Futures-Trading-Bot&hashtags=Trading,Bot,Trading_Bot,Cryptocurrency_Trading_Bot,Crypto,Bitcoin,Ethereum,Cryptocurrency,Binance,DOGE,dogecoin) #
-* Prioritise your [Trello](https://trello.com/invite/b/iagTNiv0/80cc1828bdac439ed813cc54c9698c06/github-bot) ticket with a [one time payment](https://github.com/sponsors/conor19w)  
-* Get [Custom Strategies](https://www.fiverr.com/share/bzX4oq) Made by me.
-* If you have any queries about anything, or need me to explain any blocks of code please reach out to me on [Discord](https://discord.gg/jBu6thyP66).
-* If you have any suggestions or requests please reach out to me as well.  
-[__Join My public Discord Server__](https://discord.gg/jBu6thyP66) __&__ [__Follow The Twitter__](https://twitter.com/futures_bot)
 
