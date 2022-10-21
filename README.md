@@ -15,10 +15,9 @@ or [Buy me a Coffee](https://www.buymeacoffee.com/awoyemivictor)
 __Strategies are implemented in Bot_Class as functions in Make_decision()__
 * ```Make_decision()``` must return ```Trade_Direction, stop_loss_val, take_profit_val``` for the strategy to work properly
 * You might draw inspiration for a strategy from one of the samples in __TradingStrats.py__  
-[Create Custom Strategies & TP/SL functions Manual](files/Custom_Strategies.pdf) (This needs updating, but I will have a new PDF out soon)
 ---
 ## Binance Setup ##
-* Create a [Binance Account](https://www.binance.com/en-NG/activity/referral-entry/CPA?fromActivityPage=true&ref=CPA_00WKJ91T2X) (This link uses my referral which gives you 100 USDT Trading Fee Credit and me also.)
+* Create a [Binance](https://www.binance.com/en-NG/activity/referral-entry/CPA?fromActivityPage=true&ref=CPA_00WKJ91T2X) (This link uses my referral which gives you 100 USDT Trading Fee Credit and me also.)
 * __Enable Two-factor Authentication in the security section to keep your crypto safe.__
 * Create a new API key under the API Management section.
 *  [✓] Read Info [✓] Enable Trading [✓] Enable Futures [X] Enable Withdrawals
