@@ -1,4 +1,4 @@
-# Binance-Futures-Trading-Bot 
+# Binance-Futures-Trading-EA 
 ## Technical Analysis driven Crypto Trading bot on Binance Futures 📈 ₿ 🚀 
 [__Follow The Twitter__] https://twitter.com/awoyemivictora
 * Comes with 12 pre-built strategies found in [TradingStrats.py]
